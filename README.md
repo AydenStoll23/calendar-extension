@@ -12,6 +12,8 @@ Notes are saved locally — your data stays on your device
 
 Highlights today's date for quick reference
 
+---
+
 Clean, distraction-free design
 
 No logins. No sync. Just fast, simple note-keeping in your browser.
